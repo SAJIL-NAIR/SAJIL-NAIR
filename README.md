@@ -17,7 +17,7 @@
 
 ---
 
-I'm passionate about building secure, scalable and intelligent systems — from network infrastructure to AI-powered applications. I enjoy turning ideas into real-world solutions and continuously learning new technologies.
+I am Sajil Nair, a software developer interested in building secure, scalable, and efficient applications. My work spans software engineering, API security, networking, full-stack development, and artificial intelligence. I focus on developing practical solutions, strengthening my technical expertise, and applying emerging technologies to solve real-world problems.
 
 ## Tech Stack
 
