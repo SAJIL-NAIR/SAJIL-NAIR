@@ -82,19 +82,17 @@ I am Sajil Nair, a software developer interested in building secure, scalable, a
 
 ## 🎯 Current Focus
 
-- ⚙️ System Design &amp; Architecture
-- ✨ AI/ML and Data
-- ☁️ Cloud &amp; DevOps
-- 🚀 Building Scalable Products
+- Software Engineering & System Architecture
+- Artificial Intelligence & Machine Learning
+- API Security & Access Control
+- Full-Stack Development & Cloud Technologies
 
-## 👋 About Me
+## ⚡ Areas of Interest
 
-I enjoy combining software engineering, thoughtful systems design, and emerging technologies to build practical solutions.
-
-- 📍 India
-- 💻 Interested in full-stack development and AI
-- 🔐 Exploring secure API design and access control
-- 🌱 Always learning and building
+- **Backend Engineering:** API development, authentication, and system integration
+- **Cybersecurity:** Secure architecture, access control, and API protection
+- **AI & Machine Learning:** Intelligent applications and practical AI implementations
+- **Infrastructure:** Cloud computing, containerization, and scalable systems
 
 ## 🔗 Connect With Me
 
