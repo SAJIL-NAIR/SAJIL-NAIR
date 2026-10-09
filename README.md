@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mountain-banner.png" alt="Panoramic mountain range at dusk with the words Code / Analyze / Build / Impact" width="100%" />
+  <img src="assets/mountain-banner.png" alt="Mountain banner" width="100%" />
 </p>
 
 <div align="center">
