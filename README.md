@@ -5,7 +5,7 @@
 <h1 align="center">SAJIL NAIR</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · AI Enthusiast · Systems Thinker</strong>
+  <strong>Software Development · Full Stack Developer · AI Enthusiast · Systems Thinker</strong>
 </p>
 
 <p align="center">
