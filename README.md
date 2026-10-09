@@ -31,7 +31,12 @@ I enjoy building secure, scalable and intelligent systems—from network infrast
 ![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=flat-square&logo=html5&logoColor=E34F26)
 ![Docker](https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=F05032)
-![AWS](https://img.shields.io/badge/AWS-0D1B2A?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1B2A?style=flat-square&logo=fastapi&logoColor=009688)
+![Arduino](https://img.shields.io/badge/Arduino-0D1B2A?style=flat-square&logo=arduino&logoColor=00979D)
+![Blender](https://img.shields.io/badge/Blender-0D1B2A?style=flat-square&logo=blender&logoColor=F5792A)
+![AWS](https://img.shields.io/badge/AWS-0D1B2A?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+
 
 ---
 
